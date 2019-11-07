@@ -1,0 +1,21 @@
+<?php
+return array (
+  '<strong>Move</strong> content' => '',
+  'Content' => 'Sadržaj',
+  'Content Tag with invalid contentcontainer_id assigned.' => 'Dodijeljena je oznaka za sadržaj s nevažećim contentcontainer_id.',
+  'Content has been moved to {spacename}' => '',
+  'Invalid space selection.' => '',
+  'Move content' => 'Premjesti sadržaj',
+  'Target Space' => 'Ciljani prostor',
+  'The author of this content is not allowed to create private content within the selected space.' => '',
+  'The author of this content is not allowed to create public content within the selected space.' => '',
+  'The content can\'t be moved to its current space.' => '',
+  'The module {moduleName} is not enabled on the selected target space.' => '',
+  'This content type can\'t be moved due to a missing module-id setting.' => '',
+  'This content type can\'t be moved.' => '',
+  'This space is not visible!' => 'Ovaj prostor nije vidljiv!',
+  'Topics' => 'Teme',
+  'Updated' => 'Ažurirano',
+  'You do not have the permission to move this content to the given space.' => '',
+  'You do not have the permission to move this content.' => '',
+);

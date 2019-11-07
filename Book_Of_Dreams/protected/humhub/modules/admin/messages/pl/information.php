@@ -1,0 +1,23 @@
+<?php
+return array (
+  '<strong>CronJob</strong> Status' => 'Stan <strong>CronJob</strong>',
+  '<strong>Queue</strong> Status' => 'Stan <strong>Kolejki</strong>',
+  'About HumHub' => 'O HumHub',
+  'Background Jobs' => 'Zadania w tle',
+  'Database' => 'Baza danych',
+  'Database migration results:' => 'Wynik migracji bazy danych:',
+  'Delayed' => 'Opóźnione',
+  'Done' => 'Zakończone',
+  'Driver' => 'Sterownik',
+  'Last run (daily):' => 'Ostatnie uruchomienie (dzienne):',
+  'Last run (hourly):' => 'Ostatnie uruchomienie (godzinowe):',
+  'Logging' => 'Logowanie',
+  'Never' => 'Nigdy',
+  'Please refer to the documentation to setup the cronjobs and queue workers.' => 'Proszę odnieść się do dokumentacji w celu ustawienia zadań cron i kolejki działań.',
+  'Prerequisites' => 'Wymagania',
+  'Queue successfully cleared.' => 'Kolejka wyczyszczona prawidłowo',
+  'Reserved' => 'Zarezerwowane',
+  'Search index rebuild in progress.' => 'Indeks szukania przebudowany prawidłowo.',
+  'The current main HumHub database name is ' => 'Obecna nazwa głównej bazy danych HumHub to:',
+  'Waiting' => 'Oczekiwanie',
+);

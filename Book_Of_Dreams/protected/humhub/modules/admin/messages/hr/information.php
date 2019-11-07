@@ -1,0 +1,23 @@
+<?php
+return array (
+  '<strong>CronJob</strong> Status' => '<strong>CronJob</strong> Status',
+  '<strong>Queue</strong> Status' => '<strong>Queue</strong> Status',
+  'About HumHub' => 'O HumHub-u',
+  'Background Jobs' => 'Background Jobs',
+  'Database' => 'Baza podataka',
+  'Database migration results:' => 'Database migration results:',
+  'Delayed' => 'Delayed',
+  'Done' => 'Done',
+  'Driver' => 'Driver',
+  'Last run (daily):' => 'Last run (daily):',
+  'Last run (hourly):' => 'Last run (hourly):',
+  'Logging' => 'Logging',
+  'Never' => 'Never',
+  'Please refer to the documentation to setup the cronjobs and queue workers.' => 'Please refer to the documentation to setup the cronjobs and queue workers.',
+  'Prerequisites' => 'Preduvjeti',
+  'Queue successfully cleared.' => 'Queue successfully cleared.',
+  'Reserved' => 'Reserved',
+  'Search index rebuild in progress.' => 'Search index rebuild in progress.',
+  'The current main HumHub database name is ' => 'The current main HumHub database name is',
+  'Waiting' => 'Waiting',
+);

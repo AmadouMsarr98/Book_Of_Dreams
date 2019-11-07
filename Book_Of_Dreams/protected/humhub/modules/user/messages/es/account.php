@@ -1,0 +1,21 @@
+<?php
+return array (
+  '<strong>Modify</strong> your profile image' => '<strong>Modificar</strong> tu imagen de perfil',
+  '<strong>Modify</strong> your title image' => '<strong>Modificar</strong> tu imagen de cabecera',
+  '<strong>Security</strong> settings' => 'Ajustes de <strong>Seguridad</strong>',
+  '<strong>User</strong> settings' => 'Ajustes del <strong>usuario</strong>',
+  '<strong>Your</strong> profile' => '<strong>Tu</strong> perfil',
+  'All your personal data will be irrevocably deleted.' => 'Todos tus datos personales se borrarán irreversiblemente.',
+  'Are you sure that you want to delete your account?' => '¿Seguro que quieres borrar tu cuenta?',
+  'Delete account' => 'Borrar cuenta',
+  'E-Mail Summaries' => 'Resúmenes de Correo',
+  'Enter your password to continue' => 'Introduce tu clave para continuar',
+  'Not registered users' => 'Usuarios no registrados',
+  'Notifications' => 'Notificaciones',
+  'Other users' => 'Otros usuarios',
+  'Users' => 'Usuarios',
+  'You are currently the owner of following spaces:' => 'Actualmente eres el propietario de los siguientes espacios:',
+  'You must transfer ownership or delete these spaces before you can delete your account.' => 'Antes de poder borrar tu cuenta tienes que borrar o transferir la propiedad de los siguientes espacios:',
+  'Your account cannot be deleted!' => '¡Tu cuenta no puede ser borrada!',
+  'Your friends' => 'Tus amigos',
+);

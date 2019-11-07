@@ -1,0 +1,21 @@
+<?php
+return array (
+  '<strong>Move</strong> content' => '<strong>Przenieś</strong> zawartość',
+  'Content' => 'Treść',
+  'Content Tag with invalid contentcontainer_id assigned.' => 'Tag zawartości z błędnie przypisanym contentcontainer_id.',
+  'Content has been moved to {spacename}' => 'Zawartość przeniesiona do {spacename}',
+  'Invalid space selection.' => 'Wybrano niewłaściwą strefę.',
+  'Move content' => 'Przenieś zawartość',
+  'Target Space' => 'Docelowa Strefa',
+  'The author of this content is not allowed to create private content within the selected space.' => 'Autor tej zawartości nie ma uprawnień do tworzenia prywatnych zawartości w wybranej strefie.',
+  'The author of this content is not allowed to create public content within the selected space.' => 'Autor tej zawartości nie ma uprawnień do tworzenia publicznych zawartości w wybranej strefie.',
+  'The content can\'t be moved to its current space.' => 'Zawartość nie może zostać przeniesiona do swojej aktualnej strefy.',
+  'The module {moduleName} is not enabled on the selected target space.' => 'Moduł {moduleName} nie jest włączony w wybranej strefie.',
+  'This content type can\'t be moved due to a missing module-id setting.' => 'Tego typu zawartość nie może zostać przeniesiona z powodu brakującego ustawienia module-id.',
+  'This content type can\'t be moved.' => 'Tego typu zawartość nie może zostać przeniesiona',
+  'This space is not visible!' => 'Ta strefa nie jest widoczna!',
+  'Topics' => 'Tematy',
+  'Updated' => 'Zaktualizowane',
+  'You do not have the permission to move this content to the given space.' => 'Nie posiadasz uprawnień do przenoszenia zawartości do wybranej strefy.',
+  'You do not have the permission to move this content.' => 'Nie posiadasz uprawnień do przenoszenia zawartości.',
+);

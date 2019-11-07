@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Administration</strong> menu' => '<strong>Menu<strong> administracji</strong></strong>',
+  'Advanced' => 'Zaawansowane',
+  'Appearance' => 'Wygląd',
+  'Caching' => 'Cache',
+  'E-Mail summaries' => 'Podsumowanie wiadomości E-mail',
+  'Files' => 'Pliki',
+  'General' => 'Ogólne',
+  'Information' => 'Informacje',
+  'Logs' => 'Logi',
+  'Modules' => 'Moduły',
+  'Notifications' => 'Powiadomienia',
+  'OEmbed' => 'OEmbed',
+  'Proxy' => 'Serwer Proxy',
+  'Settings' => 'Ustawienia',
+  'Spaces' => 'Strefy',
+  'Statistics' => 'Statystyki',
+  'Users' => 'Użytkownicy',
+);
